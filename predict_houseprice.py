@@ -47,4 +47,7 @@ o_array=numpy.array(a1).reshape(T,F)
 house_price=mat(o_array)*parameter
 for i in range(T):
     print house_price[i,0]
-        
+	
+#ÎÒÔÚÑ§~
+   
+   
